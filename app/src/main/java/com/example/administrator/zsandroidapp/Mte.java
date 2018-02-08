@@ -5,4 +5,5 @@ package com.example.administrator.zsandroidapp;
  */
 
 public class Mte {
+     String mm="";
 }
